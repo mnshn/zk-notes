@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}% 
+\contentsline {section}{\numberline {2}zk-SNARKS}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Arithmetic Circuits}{6}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Making Polynomials (Quadratic Arithmetic Program)}{8}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Naive approach}{10}{subsection.2.3}% 
+\contentsline {subsubsection}{\numberline {2.3.1}Soundness by shifting}{12}{subsubsection.2.3.1}% 
+\contentsline {subsubsection}{\numberline {2.3.2}Zero-knowledge by shifting}{13}{subsubsection.2.3.2}% 
+\contentsline {subsubsection}{\numberline {2.3.3}Non-interactive with (nearly) trusted set-up}{13}{subsubsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.4}Pinocchio Protocol}{14}{subsection.2.4}% 
+\contentsline {subsubsection}{\numberline {2.4.1}Set-up}{14}{subsubsection.2.4.1}% 
+\contentsline {section}{\numberline {3}Sonic }{16}{section.3}% 
+\contentsline {section}{\numberline {4}Beyond Sonic}{17}{section.4}% 
+\contentsline {section}{References}{17}{section.4}% 
