@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex draft"] 1613040190 "draft.aux" "draft.bbl" "draft" 1613040287
+["bibtex draft"] 1613040190 "draft.aux" "draft.bbl" "draft" 1613040636
   "/usr/share/texmf-dist/bibtex/bst/base/alpha.bst" 1607249373 23907 a5f93555796fb564b924339521f10a7c ""
-  "draft.aux" 1613040287 4210 9107b5545519dba20ee463e4a382ce01 "pdflatex"
+  "draft.aux" 1613040636 4210 9107b5545519dba20ee463e4a382ce01 "pdflatex"
   "zk.bib" 1613040023 2502 a4986454234ebd261b46e0ffd210989e ""
   (generated)
   "draft.bbl"
   "draft.blg"
-["pdflatex"] 1613040286 "draft.tex" "draft.pdf" "draft" 1613040287
+["pdflatex"] 1613040635 "draft.tex" "draft.pdf" "draft" 1613040636
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1607249373 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1607249373 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1607249373 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
@@ -188,14 +188,14 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1610357345 2635859 838acd480dab27f7397d8387ff8c5aca ""
   "arith_circ/add_mult.pdf" 1613040023 107755 704fbac9cda9f3d3ed4bef18bdb46673 ""
   "arith_circ/basic1.pdf" 1613040023 78699 a7d8be949828e93e679ae9028cbd5f69 ""
-  "draft.aux" 1613040287 4210 9107b5545519dba20ee463e4a382ce01 "pdflatex"
+  "draft.aux" 1613040636 4210 9107b5545519dba20ee463e4a382ce01 "pdflatex"
   "draft.bbl" 1613040190 303 ec649891e2cbb1de7de385d91034aac9 "bibtex draft"
-  "draft.out" 1613040287 1057 2e6a753889a23f6936364898828b271b "pdflatex"
-  "draft.tex" 1613040285 55754 01e36f8c3dba357c0658bdda7bd7da93 ""
-  "draft.toc" 1613040287 1341 965adaf0444a55a22709fef6a0f11484 "pdflatex"
+  "draft.out" 1613040636 1057 2e6a753889a23f6936364898828b271b "pdflatex"
+  "draft.tex" 1613040627 55677 9954b0e8beab1722983d4b14da3dece8 ""
+  "draft.toc" 1613040636 1341 965adaf0444a55a22709fef6a0f11484 "pdflatex"
   (generated)
   "draft.pdf"
   "draft.toc"
   "draft.log"
-  "draft.aux"
   "draft.out"
+  "draft.aux"
