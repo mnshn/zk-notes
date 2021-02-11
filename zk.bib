@@ -1,0 +1,26 @@
+%% This BibTeX bibliography file was created using BibDesk.
+%% https://bibdesk.sourceforge.io/
+
+%% Created for Paul de Lange at 2019-09-26 14:13:16 +0200 
+
+
+%% Saved with string encoding Unicode (UTF-8) 
+
+
+
+@article{parno2016pinocchio,
+	Abstract = {To instill greater confidence in computations outsourced to the cloud, clients should be able to verify the correctness of the results returned. To this end, we introduce Pinocchio, a built system for efficiently verifying general computations while relying only on cryptographic assumptions. With Pinocchio, the client creates a public evaluation key to describe her computation; this setup is proportional to evaluating the computation once. The worker then evaluates the computation on a particular input and uses the evaluation key to produce a proof of correctness. The proof is only 288 bytes, regardless of the computation performed or the size of the IO. Anyone can check the proof using a public verification key.
+
+Crucially, our evaluation on seven applications demonstrates that Pinocchio is efficient in practice too. Pinocchio's verification time is a fixed 10ms plus 0.4-15us per IO element: 5-7 orders of magnitude less than previous work; indeed Pinocchio is the first general-purpose system to demonstrate verification cheaper than native execution (for some apps). The worker's proof effort is still expensive, but Pinocchio reduces it by 19-60x relative to prior work. As an additional feature, Pinocchio allows the worker to include private inputs in the computation and prove that she performed the computation correctly without revealing any information about the inputs to the client. Finally, to aid development, Pinocchio provides an end-to-end toolchain that compiles a subset of C into programs that implement the verifiable computation protocol.},
+	Author = {Parno, Bryan and Howell, Jon and Gentry, Craig and Raykova, Mariana},
+	Date-Added = {2019-09-26 14:12:40 +0200},
+	Date-Modified = {2019-09-26 14:12:40 +0200},
+	Edition = {Communications of the ACM},
+	Journal = {Communications of the ACM},
+	Month = {February},
+	Note = {Research Highlight},
+	Publisher = {ACM - Association for Computing Machinery},
+	Title = {Pinocchio: Nearly Practical Verifiable Computation},
+	Url = {https://www.microsoft.com/en-us/research/publication/pinocchio-nearly-practical-verifiable-computation-2/},
+	Year = {2016},
+	Bdsk-Url-1 = {https://www.microsoft.com/en-us/research/publication/pinocchio-nearly-practical-verifiable-computation-2/}}

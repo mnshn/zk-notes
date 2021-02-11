@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{My first Sigma protocol}{}% 2
+\BOOKMARK [1][-]{section.3}{zk-SNARKS}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Arithmetic Circuits}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Making Polynomials \(Quadratic Arithmetic Program\)}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Naive approach}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.3.1}{Soundness by shifting}{subsection.3.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.3.2}{Zero-knowledge by shifting}{subsection.3.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.3.3}{Non-interactive by pairing}{subsection.3.3}% 9
+\BOOKMARK [2][-]{subsection.3.4}{Pinocchio Protocol}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Sonic }{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{System of Constraints}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Multivariate Polynomials}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.3}{Polynomial Commitment Scheme}{section.4}% 14
+\BOOKMARK [1][-]{section.5}{Beyond Sonic}{}% 15
+\BOOKMARK [1][-]{section.5}{References}{}% 16

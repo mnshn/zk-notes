@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}My first Sigma protocol}{4}{section.2}%
+\contentsline {section}{\numberline {3}zk-SNARKS}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Arithmetic Circuits}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Making Polynomials (Quadratic Arithmetic Program)}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Naive approach}{13}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Soundness by shifting}{15}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Zero-knowledge by shifting}{16}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Non-interactive by pairing}{16}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Pinocchio Protocol}{18}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Sonic }{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}System of Constraints}{21}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Multivariate Polynomials}{23}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Polynomial Commitment Scheme}{24}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Beyond Sonic}{25}{section.5}%
+\contentsline {section}{References}{25}{section.5}%
